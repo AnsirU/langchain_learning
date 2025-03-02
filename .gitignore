@@ -1,0 +1,10 @@
+# 忽略 Python 编译文件
+__pycache__/
+*.pyc
+
+# 忽略 Jupyter Notebook 检查点文件
+.ipynb_checkpoints/
+
+# 忽略环境文件夹
+venv/
+env/
